@@ -7,6 +7,8 @@ The variables are mostly german and the code is not commented.
 ```
 pip install bs4 selenium
 ```
+
+## Further information
 Make sure, that you have the right webdriver for the browser you want to use installed. I use Firefox in my example.
 
 Run the ipynb or copy all the code to a Python file and run it there.
